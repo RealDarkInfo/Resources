@@ -9,3 +9,6 @@
  * Freedom, freedom is the reason we do it. We believe that freedom of information is one of if not the modt important thing that can help humanity advance. why is information hidden in the first place? its hidden to keep knowledge from those who can do something with it whether it is good or bad. knowledge has power and we here at Dark_Info want to bring that knowledge to those who seek it un altered.
 * What is this repo about?
  * This repo is going to include free resources anyone can use to help improve there knowledge on some of the stuff we talk about. This will also include notes on stuff we write and talk about.
+
+* Link to our Resources Page 
+ [[https://realdarkinfo.github.io/Resources/][Dark_Info_Resources]]
